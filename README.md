@@ -3,7 +3,7 @@
 *GigConnect* is a responsive web application designed to connect local businesses with freelancers for short-term or task-based work opportunities. The platform offers features for both freelancers to find gigs and businesses to post their own.
 
 ## Live Demo
-> [Add link here once deployed]
+> https://connectinggig2.onrender.com
 
 ---
 
